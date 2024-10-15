@@ -1,8 +1,8 @@
 #include <WiFi.h>
 
 // Remplacez ces valeurs par les identifiants de votre réseau WiFi
-const char* ssid = "VotreSSID";
-const char* password = "VotreMotDePasse";
+const char* ssid = "iPhone di aness";
+const char* password = "12345678";
 
 void setup() {
   Serial.begin(115200);
